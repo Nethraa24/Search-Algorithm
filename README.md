@@ -68,9 +68,6 @@ else:
     print("Element found at index: ",result)
 
 
-
-
-
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```python
@@ -97,15 +94,9 @@ else:
     print("Element found at index: ",result)
 
 
-
-
-
 ```
 ## Sample Input and Output
 ![image](https://user-images.githubusercontent.com/121215786/214866070-e8582cb2-fb08-4c1f-9f30-ea7a39dbf156.png)
-
-
-
 
 
 
