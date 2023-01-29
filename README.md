@@ -18,12 +18,12 @@ To write a program to perform linear search and binary search using python progr
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
 
-##Program Developed by: J.Nethraa
-
-  Reference no.: 22006789
+[#Program Developed by: J.Nethraa
+Reference no.: 22006789](https://github.com/Nethraa24/FindMaximum.git)
   
 i)	#Use a linear search method to match the item in a list.
 ```python
+
 def linearSearch(array,n,k):
    for i in range(0,n):
        if(array[i]==k):
